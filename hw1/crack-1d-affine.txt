@@ -1,3 +1,6 @@
+%You have intercepted the following ciphertext encrypted with a 1-dimensional affine cipher: 
+%cowcbfxiviagwiuxivixcdcbscbfxofrgbsrcafgnscttivcax. Decrypt in by trying all possible keys. 
+
 ciphertext = 'cowcbfxiviagwiuxivixcdcbscbfxofrgbsrcafgnscttivcax'
 
 ciphertext =
