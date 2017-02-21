@@ -1,3 +1,6 @@
+%You have intercepted the following ciphertext encrypted with a Hill Cipher using block length 4: 
+%krtayyxvnitxnxombrhhloeuhnexxumazwltmfsf. Knowing that the first part of the plaintext reads thetipofthemonth, decrypt this 
+%ciphertext.
 
 ciphertext='krtayyxvnitxnxom'
 
