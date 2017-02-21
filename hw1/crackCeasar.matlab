@@ -1,0 +1,81 @@
+ciphertext = 'sdgyevnlocydowzdsxqdytecdgbsdomkxiyerokbwoxyg'
+
+ciphertext =
+
+sdgyevnlocydowzdsxqdytecdgbsdomkxiyerokbwoxyg
+
+y = ciphertext-97
+
+y =
+
+  Columns 1 through 12
+
+    18     3     6    24     4    21    13    11    14     2    24     3
+
+  Columns 13 through 24
+
+    14    22    25     3    18    23    16     3    24    19     4     2
+
+  Columns 25 through 36
+
+     3     6     1    18     3    14    12    10    23     8    24     4
+
+  Columns 37 through 45
+
+    17    14    10     1    22    14    23    24     6
+
+for i=1:25
+       i
+       char(mod(y-i,26)+97)
+   end
+
+i =
+
+     1
+
+
+ans =
+
+rcfxdumknbxcnvycrwpcxsdbcfarcnljwhxdqnjavnwxf
+
+
+i =
+
+     2
+
+
+ans =
+
+qbewctljmawbmuxbqvobwrcabezqbmkivgwcpmizumvwe
+
+.
+.
+.
+.
+.
+
+
+i =
+
+    10
+
+
+ans =
+
+itwouldbesotemptingtojustwritecanyouhearmenow
+
+.
+.
+.
+
+
+i =
+
+    25
+
+
+ans =
+
+tehzfwompdzepxaetyrezufdehctepnlyjzfsplcxpyzh
+
+diary
