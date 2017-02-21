@@ -1,4 +1,5 @@
-%You have intercepted the following ciphertext encrypted with a Caesar cipher: sdgyevnlocydowzdsxqdytecdgbsdomkxiyerokbwoxyg. %Decrypt it by trying all possible keys.
+%You have intercepted the following ciphertext encrypted with a Caesar cipher: sdgyevnlocydowzdsxqdytecdgbsdomkxiyerokbwoxyg. 
+%Decrypt it by trying all possible keys.
 
 
 ciphertext = 'sdgyevnlocydowzdsxqdytecdgbsdomkxiyerokbwoxyg'
