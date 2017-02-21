@@ -1,0 +1,93 @@
+ciphertext = 'cowcbfxiviagwiuxivixcdcbscbfxofrgbsrcafgnscttivcax'
+
+ciphertext =
+
+cowcbfxiviagwiuxivixcdcbscbfxofrgbsrcafgnscttivcax
+
+y = ciphertext-97
+
+y =
+
+  Columns 1 through 12
+
+     2    14    22     2     1     5    23     8    21     8     0     6
+
+  Columns 13 through 24
+
+    22     8    20    23     8    21     8    23     2     3     2     1
+
+  Columns 25 through 36
+
+    18     2     1     5    23    14     5    17     6     1    18    17
+
+  Columns 37 through 48
+
+     2     0     5     6    13    18     2    19    19     8    21     2
+
+  Columns 49 through 50
+
+     0    23
+
+
+ for a= 1:25
+        if gcd(a,26)==1
+           for b=1:25
+               
+               a
+               b
+               char(mod((y-b)*invmodn(a,26),26)+97)
+           end
+        end
+   end
+
+a =
+
+     1
+
+
+b =
+
+     1
+
+
+ans =
+
+bnvbaewhuhzfvhtwhuhwbcbarbaewneqfarqbzefmrbsshubzw
+
+.
+.
+.
+
+a =
+
+     5
+
+
+b =
+
+    14
+
+
+ans =
+
+iamintheresomewherehidinginthatlonglistofgibberish
+
+.
+.
+.
+
+a =
+
+    25
+
+
+b =
+
+    25
+
+
+ans =
+
+xldxyucrerztdrfcrercxwxyhxyucluityhixzutmhxggrexzc
+
+diary
